@@ -1,0 +1,282 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "01",
+        "title": "About Basic HTML",
+        "image_url": "https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2018/11/what-is-html-3.jpg",
+        "details": "HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables."
+    },
+
+    {
+        "_id": "f69a695f037cd9484cecaea37ca71011",
+        "category_id": "01",
+        "title": "HTML Editor",
+        "image_url": "https://codecondo.com/wp-content/uploads/2017/07/Web-Editors.jpg",
+        "details": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of that puckering up list. The Fox News host is something of a folk hero in Russia: Because of the pro-Putin propaganda he so often spews, the Kremlin has encouraged Russia's state TV to air as much of Tucker's face as possible — and they're certain to love his latest rant about how Putin is winning the war in Ukraine, which does not seem to be the case. But on Fox News, what Tucker says goes."
+    },
+
+    {
+        "_id": "11468ed61aee84de492a8b04158a22f0",
+        "title": "HTML Attributes",
+        "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2019/05/HTML-Attributes.jpg",
+        "details": "WASHINGTON: President Joe Biden announced nearly $3 billion in military aid to Kyiv on Wednesday -- the biggest US package so far -- to mark Ukraine's independence day, six months after Russia invaded the country. The package aims to fortify Ukraine's military over the coming two years by committing the production and... read full story"
+    },
+
+    {
+        "_id": "7c4dfea0fafddc813673282a428429b7",
+        "category_id": "01",
+        "title": "HTML Graphics",
+        "image_url": "https://genzacademy.vn/wp-content/uploads/2021/10/top-5-vat-dung-can-thiet-cho-designer-770x400.jpg",
+        "details": "Published: 25 Aug 2022, 09: 09 US president Joe Biden speaks as he attends the first virtual meeting of the   I2U2   group with Israeli prime minister Yair Lapid and leaders of India and the United Arab Emirates, in Jerusalem 14 July, 2022ReutersUS President Joe Biden marked Ukraine's Independence Day on Wednesday with $3 billion in security assistance, Washington's largest aid package since Russia's invasion six months ago but one that could take months or even years to arrive in Kyiv.The aid announcement came as US officials warned that Russia appeared to be planning to launch fresh attacks in coming days on Ukraine's civilian infrastructure and government facilities."
+    },
+
+    {
+        "_id": "30af81e91ab3eafc0bcae0de62f55d5c",    
+        "category_id": "01",
+        "title": "HTML Form",
+        "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2019/08/HTML-Form-Elements.jpg",
+        "details": "HTML Form is a document which stores information of a user on a web server using interactive controls. An HTML form contains different kind of information such as username, password, contact number, email id etc. The elements used in an HTML form are check box, input box, radio buttons, submit buttons etc."
+    },
+
+    {
+        "_id": "be44c843d61859cc0b87cae85c55f9db",       
+        "category_id": "01",       
+        "title": "HTML Images",       
+        "image_url": "https://i.ytimg.com/vi/XOuGqClpnCk/maxresdefault.jpg",
+        "details": "HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables."
+    },
+
+    {
+        "_id": "374df11ae3d9b8b9ce21f4dc53f59b85",       
+        "category_id": "01",        
+        "title": "HTML Iframes",       
+        "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2019/11/Iframes-in-HTML.png",
+        "details": "An inline frame (iframe) is a HTML element that loads another HTML page within the document. It essentially puts another webpage within the parent page. They are commonly used for advertisements, embedded videos, web analytics and interactive content."
+    },
+
+    {
+        "_id": "919db97c34e0778b387dd40cdfa08130",       
+        "category_id": "01",       
+        "title": "HTML API",       
+        "image_url": "https://webguruz.in/wp-content/uploads/2021/01/html-api.jpg",
+        "details": "The HTML DOM API is made up of the interfaces that define the functionality of each of the elements in HTML, as well as any supporting types and interfaces they rely upon. The functional areas included in the HTML DOM API include: Access to and control of HTML elements via the DOM"
+    },
+
+    {
+        "_id": "f69a695f037cd9484cecaea37ca71012",
+        "category_id": "02",
+        "title": "Basic CSS",
+        "image_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220428152156/CSS-Cheat-Sheet-4.jpg",
+        "details": "CSS (Cascading Style Sheets) is used to style and layout web pages — for example, to alter the font, color, size, and spacing of your content, split it into multiple columns, or add animations and other decorative features."
+    },
+
+    {
+        "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+        "category_id": "02",
+        "title": "CSS Selector",
+        "image_url": "https://i.ytimg.com/vi/6fFL-KdEPfQ/maxresdefault.jpg",
+        "details": "A CSS selector is the first part of a CSS Rule. It is a pattern of elements and other terms that tell the browser which HTML elements should be selected to have the CSS property values inside the rule applied to them."
+    },
+
+    {
+        "_id": "cd2b53655737cc4077542baea9f8f75d",
+        "category_id": "02",
+        "title": "CSS Color",
+        "image_url": "https://www.educative.io/v2api/editorpage/5209545865953280/image/6548066316845056",
+        "details": "The color CSS property sets the foreground color value of an element's text and text decorations, and sets the currentcolor value. currentcolor may be used as an indirect value on other properties and is the default for other color properties, such as border-color"
+    },
+
+    {
+        "_id": "1b03149c50f1bec662062d930bf46489",
+        "category_id": "02",
+        "title": "CSS Grid",
+        "image_url": "https://www.freecodecamp.org/news/content/images/2022/05/CSS-GRID-3.png",
+        "details": "CSS Grid Layout excels at dividing a page into major regions or defining the relationship in terms of size, position, and layer, between parts of a control built from HTML primitives. Like tables, grid layout enables an author to align elements into columns and rows."
+    },
+
+    {
+        "_id": "df11ff9feefc37613cc3a4486ce02151",
+        "category_id": "02",
+        "title": "CSS Box Model",
+        "image_url": "https://media.gcflearnfree.org/content/5ef2084faaf0ac46dc9c10be_06_23_2020/box_model.png",
+        "details": "The CSS box model is a container that contains multiple properties including borders, margin, padding, and the content itself. It is used to create the design and layout of web pages. It can be used as a toolkit for customizing the layout of different elements."
+    },
+
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",        
+        "category_id": "03",        
+        "title": "Basic Bootstrap",        
+        "image_url": "https://blog.templatetoaster.com/wp-content/uploads/2019/09/What-is-Bootstrap.jpg",
+        "details": "What is Bootstrap? Bootstrap is a free, open source front-end development framework for the creation of websites and web apps. Designed to enable responsive development of mobile-first websites, Bootstrap provides a collection of syntax for template designs."
+    },
+    
+    
+
+    {
+        "_id": "11468ed61aee84de492a8b04158a22f9",       
+        "category_id": "03",        
+        "title": "Bootstrap Container",        
+        "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2020/04/Bootstrap-Container-Fluid.jpg",
+        "details": "Containers are the most basic layout element in Bootstrap and are required when using our default grid system. Containers are used to contain, pad, and (sometimes) center the content within them. While containers can be nested, most layouts do not require a nested container."
+    },
+    
+    
+
+    {
+        "_id": "a713ee936ff5574273f0f769f5c5b20e",        
+        "category_id": "03",       
+        "title": "Bootstrap Button",       
+        "image_url": "https://www.tutorialstonight.com/assets/bootstrap/bootstrap-button-with-icon-and-text.png",
+        "details": "Use Bootstrap’s custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more. Bootstrap includes several predefined button styles, each serving its own semantic purpose, with a few extras thrown in for more control."
+    },
+
+    {
+        "_id": "acb9b6785b62698fc6130db7615965e1",
+        "category_id": "03",
+        "title": "Bootstrap Modal",
+        "image_url": "https://mdbcdn.b-cdn.net/wp-content/uploads/2018/02/modal-new.jpg",
+        "details": "Modals are built with HTML, CSS, and JavaScript. They're positioned over everything else in the document and remove scroll from the <body> so that modal content scrolls instead. Clicking on the modal “backdrop” will automatically close the modal. Bootstrap only supports one modal window at a time."
+    },
+
+    {
+        "_id": "7f5b80c1cdd4df0111918883eae07349",
+        "category_id": "03",
+        "title": "All Bootstrap Component",
+        "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2019/07/Bootstrap-Components.png",
+        "published_date": "2022-08-24 18:00:00",
+        "details": "Different Bootstrap Components. Bootstrap is bundled with tens of components that can be reused to provide a good user experience and user interactions in a web page like navigation bars, pop-ups, dropdowns, icons, buttons, pre-designed forms and also sizing options for different DOM elements."
+    },
+
+    {
+        "_id": "e342b6c0c8efc8ca9e811991dc8a7900",       
+        "category_id": "04",       
+        "title": "Basic Tailwind",
+        "image_url": "https://tailwindcss.com/_next/static/media/tailwindui-small@75.8bb955b2.jpg",
+        "details": "Tailwind CSS makes it quicker to write and maintain the code of your application. By using this utility-first framework, you don't have to write custom CSS to style your application. Instead, you can use utility classes to control the padding, margin, color, font, shadow, and more of your application."
+    },
+    {
+        "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
+        "category_id": "04",
+        "title": "Tailwind Container",
+        "image_url": "https://sudhakarinfotech.com/images/tutorialimages/tailwind-css-container.png",
+        "details": "The container class sets the max-width of an element to match the min-width of the current breakpoint. This is useful if you'd prefer to design for a fixed set of screen sizes instead of trying to accommodate a fully fluid viewport"
+    },
+
+    {
+        "_id": "61f9ce168f7b15aadecb1d1fc80c72f7",
+        "category_id": "04",
+        "title": "Tailwind Button",
+        "image_url": "https://repository-images.githubusercontent.com/353474815/a1c45280-99f4-11eb-8966-5f58bb7a6f90",
+        "details": "Tailwind CSS comes with utilities for controlling background color, border radius, and text alignment, making buttons extremely easy to customize to your liking. I've added a gray background to better see the white buttons. Here are some basic buttons with a color change on the hover"
+    },
+
+    {
+        "_id": "61f9ce168f7b15aadecb1d1fc80c72f71",
+        "category_id": "04",
+        "title": "Tailwind Component",
+        "image_url": "https://blog.logrocket.com/wp-content/uploads/2021/04/tailwind-toolbox-homepage.png",
+        "details": "Tailwind Components is an open source, community-contributed collection of free or paid Tailwind UI templates and components that can be used to bootstrap new apps, projects, and landing pages."
+    },
+
+    {
+        "_id": "f06f8cc035b04bd1158e4198281915a3",
+        "category_id": "05",
+        "title": "Basic Javascript",
+        "image_url": "https://developerpitstop.com/wp-content/uploads/2021/07/Learn-javascript-in-a-week.jpeg",
+        "details" : "Javascript is one of the most populer language, JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first class function.  and is best known as the scripting language for Web pages, but it's, used in many non vironment browser. As well it is a protype base. multi-paradigm scripting language that is dynamic, and supports object-oriented, imperative, and functional programming styles."
+    },
+    {
+        "_id": "f06f8cc035b04bd1158e4198281915a4",
+        "category_id": "05",
+        "title": "JS Version",
+        "image_url": "https://www.educative.io/cdn-cgi/image/f=auto,fit=contain,w=600/api/page/6049573835898880/image/download/4629665830928384",
+        "details": "Visit the System information tool to see what version of JavaScript is detected. JavaScript is browser dependent, which means the version of JavaScript detected may be different in Firefox than the version detected by Internet Explorer. What is JavaScript? JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well"
+    },
+
+    {
+        "_id": "61f9ce168f7b15aadecb1d1fc80c72f0",
+        "category_id": "05",
+        "title": "Javascript Object",
+        "image_url": "https://i.ytimg.com/vi/4vyxVhaQSxo/maxresdefault.jpg",
+        "details": "In JavaScript, an object is a standalone entity, with properties and type. Compare it with a cup, for example. A cup is an object, with properties. A cup has a color, a design, weight, a material it is made of, etc."
+    },
+    
+    {
+        "_id": "61f9ce168f7b15aadecb1d1fc80c72f011",
+        "category_id": "05",
+        "title": "Javascript Function",
+        "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2020/02/JavaScript-Function-Declaration.jpg",
+        "details": "A function in JavaScript is similar to a procedure—a set of statements that performs a task or calculates a value, but for a procedure to qualify as a function, it should take some input and return an output where there is some obvious relationship between the input and the output."
+    },
+
+    {
+        "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
+        "category_id": "07",
+        "title": "Basic MongoDB",
+        "image_url": "https://webimages.mongodb.com/_com_assets/cms/kuzt9r42or1fxvlq2-Meta_Generic.png",
+        "details": "MongoDB is a non-relational document database that provides support for JSON-like storage. The MongoDB database has a flexible data model that enables you to store unstructured data, and it provides full indexing support, and replication with rich and intuitive APIs."
+    },
+
+    {
+        "_id": "17d266b79d2fcd850cd4d983c3aeb95f",
+        "category_id": "07",
+        "title": "MongoDB Create Database",
+        "image_url": "https://external-preview.redd.it/2I3Djd5cihdeeUBlfkwYGQcuVwU0lgWtWuj3ThdvFNI.jpg?width=640&crop=smart&auto=webp&s=890079b1b31ec68d0b2a476c058d5873ce7ca1ec",
+        "details": "MongoDB is a document database. Graph databases are used to store information about networks, such as social connections. Examples include Neo4J and HyperGraphDB.MongoDB is an open-source NoSQL database written in C++ language. It uses JSON-like documents with optional schemas. It provides easy scalability and is a cross-platform, document-oriented database. MongoDB works on the concept of Collection and Documen"
+    },
+
+    {
+        "_id": "17d266b79d2fcd850cd4d983c3aeb95f119",
+        "category_id": "07",
+        "title": "MongoDB Query",
+        "image_url": "https://www.guru99.com/images/MongoDB/112115_0613_Introductio2.png",
+        "details": "A compound query can specify conditions for more than one field in the collection's documents. Implicitly, a logical AND conjunction connects the clauses of a compound query so that the query selects the documents in the collection that match all the conditions."
+    },
+    {
+        "_id": "17d266b79d2fcd850cd4d983c3aeb95f1192",
+        "category_id": "07",
+        "title": "MongoDB Drop Collection",
+        "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2021/05/MongoDB-Drop-Collection.jpg",
+        "details": "In MongoDB, db. collection. drop() method is used to drop a collection from a database. It completely removes a collection from the database and does not leave any indexes associated with the dropped collections."
+    },
+    
+    
+    
+    
+    {
+        "_id": "61f9ce168f7b15aadecb1d1fc80c72f712",
+        "category_id": "06",
+        "title": "Basic Node Js",
+        "image_url": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/686461/retina_800x320_cover-secure-rest-api-in-nodejs-18f43b3033c239da5d2525cfd9fdc98f.png",
+        "details": "Node. js (Node) is an open source development platform for executing JavaScript code server-side. Node is useful for developing applications that require a persistent connection from the browser to the server and is often used for real-time applications such as chat, news feeds and web push notifications."
+    },
+
+    {
+        "_id": "61f9ce168f7b15aadecb1d1fc80c72f7123",
+        "category_id": "06",
+        "title": "Node Modules",
+        "image_url": "https://www.tutorialspoint.com/nodejs/images/web_architecture.jpg",
+        "details": "Module in Node. js is a simple or complex functionality organized in single or multiple JavaScript files which can be reused throughout the Node. js application"
+    },
+    {
+        "_id": "61f9ce168f7b15aadecb1d1fc80c72f7124",      
+        "category_id": "06",
+        "title": "Node.js File System",
+        "image_url": "https://kinsta.com/wp-content/uploads/2022/07/nodejs-fs-image.jpeg",
+        "details": "All file system operations have synchronous, callback, and promise-based forms, and are accessible using both CommonJS syntax and ES6 Modules (ESM). Node.js includes fs module to access physical file system. The fs module is responsible for all the asynchronous or synchronous file I/O operations."
+    },
+    {
+        "_id": "61f9ce168f7b15aadecb1d1fc80c72f7125",
+        "category_id": "06",
+        "title": "Node.js NPM",
+        "image_url": "https://i.ytimg.com/vi/WDyAapHeA20/maxresdefault.jpg",
+        "details": "NPM is a package manager for Node. js packages, or modules if you like. www.npmjs.com hosts thousands of free packages to download and use. The NPM program is installed on your computer when you install Node.js. NPM is already ready to run on your comput npm is the package manager for the Node JavaScript platform. It puts modules in place so that node can find them, and manages dependency conflicts intelligently. It is extremely configurable to support a wide variety of use cases. Most commonly, it is used to publish, discover, install, and develop node programs."
+    },
+    {
+        "_id": "61f9ce168f7b15aadecb1d1fc80c72f716",
+        "category_id": "06",
+        "title": "All Node.js",
+        "image_url": "https://krify.co/wp-content/uploads/2019/07/Nodejs.jpg",
+        "details": "Node. js (Node) is an open source development platform for executing JavaScript code server-side. Node is useful for developing applications that require a persistent connection from the browser to the server and is often used for real-time applications such as chat, news feeds and web push notifications. It is used for server-side programming, and primarily deployed for non-blocking, event-driven servers, such as traditional web sites and back-end API services, but was originally designed with real-time, push-based architectures in mind. Every browser has its own version of a JS engine, and node."
+    }
+]
